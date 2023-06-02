@@ -1,9 +1,167 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "natal": [
+    {
+      "nome" : "Peru"
+    },
+    {
+      "nome" : "Tender"
+    },
+    {
+      "nome" : "Bacalhau"
+    },
+    {
+      "nome" : "Pernil de porco"
+    },
+    {
+      "nome" : "Farofa"
+    },
+    {
+      "nome" : "Arroz branco"
+    },
+    {
+      "nome" : "Salpicão"
+    },
+    {
+      "nome" : "Panetone ou chocotone"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "anoNovo": [
+    {
+      "nome" : "Espumante ou champanhe "
+    },
+    {
+      "nome" : "Vinho"
+    },
+    {
+      "nome" : "Refrigerantes, sucos e água"
+    },
+    {
+      "nome" : "Canapés"
+    },
+    {
+      "nome" : "Salgadinhos"
+    },
+    {
+      "nome" : "Pratos frios"
+    },
+    {
+      "nome" : "Carne assada"
+    },
+    {
+      "nome" : "pavê"
+    },
+    {
+      "nome" : "Biscoitos e cookies"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "churrasco": [
+    {
+      "nome" : "Picanha"
+    },
+    {
+      "nome" : "Alcatra"
+    },
+    {
+      "nome" : "Costela"
+    },
+    {
+      "nome" : "Carvão"
+    },
+    {
+      "nome" : "Pão de alho"
+    },
+    {
+      "nome" : "Coca-cola"
+    },
+    {
+      "nome" : "Salada"
+    },
+    {
+      "nome" : "Sal grosso"
+    }
+  ],
+  "mensal": [
+    {
+      "nome" : "Arroz branco"
+    },
+    {
+      "nome" : "Farofa"
+    },
+    {
+      "nome" : "Feijão"
+    },
+    {
+      "nome" : "Massas"
+    },
+    {
+      "nome" : "Molho de tomate"
+    },
+    {
+      "nome" : "Óleo de cozinha"
+    },
+    {
+      "nome" : "Açúcar"
+    },
+    {
+      "nome" : "Farinha de trigo"
+    },
+    {
+      "nome" : "Sal"
+    },
+    {
+      "nome" : "Cereais"
+    },
+    {
+      "nome" : "Frango"
+    },
+    {
+      "nome" : "Alcatra"
+    },
+    {
+      "nome" : "Frutas"
+    },
+    {
+      "nome" : "Pão francês"
+    }
+  ],
+  "romantico": [
+    {
+      "nome" : "Queijos finos"
+    },
+    {
+      "nome" : "Carpaccio ou bruschettas"
+    },
+    {
+      "nome" : "Filé mignon"
+    },
+    {
+      "nome" : "Salmão"
+    },
+    {
+      "nome" : "Fondue de chocolate"
+    },
+    {
+      "nome" : "Vinho tinto"
+    }
+  ],
+  "semanal": [
+    {
+      "nome" : "Molho de tomate"
+    },
+    {
+      "nome" : "Açúcar"
+    },
+    {
+      "nome" : "Cereais"
+    },
+    {
+      "nome" : "Frango"
+    },
+    {
+      "nome" : "Alcatra"
+    },
+    {
+      "nome" : "Frutas"
+    }
+  ]
 }
